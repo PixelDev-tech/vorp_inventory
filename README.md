@@ -1,4 +1,7 @@
 # VORP Inventory in Lua
+Preview
+<img width="1915" height="1070" alt="vorp_inventory" src="https://github.com/user-attachments/assets/e0939389-d7b9-4592-93fd-d25540573680" />
+<img width="911" height="1079" alt="vorpinventory" src="https://github.com/user-attachments/assets/f244c1e1-03c8-44f9-8035-1bb80eb55c9a" />
 
 ## Requirements
 - [VORP Core LUA](https://github.com/VORPCORE/vorp_core-lua)
@@ -35,7 +38,7 @@
     - Each item can optionally have an expiration date
     - Expired items cannot be used
     - Expired items are displayed in inventory with low opacity and much more
-
+Preview
 ## Extra Features
 - Description of all items in DB
 - Gold item like Dollars (You can give and drop item)
