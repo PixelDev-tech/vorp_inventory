@@ -1,5 +1,6 @@
 # VORP Inventory in Lua
 Preview
+youtube preview https://youtu.be/nYDvA1IzcAI
 <img width="1915" height="1070" alt="vorp_inventory" src="https://github.com/user-attachments/assets/e0939389-d7b9-4592-93fd-d25540573680" />
 <img width="911" height="1079" alt="vorpinventory" src="https://github.com/user-attachments/assets/f244c1e1-03c8-44f9-8035-1bb80eb55c9a" />
 
